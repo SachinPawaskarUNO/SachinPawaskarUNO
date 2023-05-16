@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 I'm an IT Professional, Developer, Educator, Researcher, and Open Source Enthusiast.
 
 ### About Me
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+Dr. Sachin Pawaskar is a researcher, educator, developer and open source enthusiast. He currently holds a Professor of Practice position in the Department of Information Systems & Quantitative Analysis at the University of Nebraska at Omaha. He has a Ph.D. in Information Technology, an MBA, and a MS in Computer Science from University of Nebraska at Omaha. He holds a Bachelor of Engineering from Bombay University.
+
+Prior to joining UNO, he had 25+ years industry experience with a successful record of accomplishments in the Telecommunications, Energy, Transportation, Healthcare and Insurance industries with extensive experience in new product development, architecture & frameworks, quality assurance, software security analysis & risk mitigation and audit compliance in a fast-paced environment. His career work spans both technical and management tracks all the way from programmer to Chief Technology Officer. His research interests include Sustainability, Energy Awareness, Big Data Analytics, Data Visualization, Internet of Things (IoT), Cloud Computing and his latest passion Forensic Anthropology.
+
+Dr. Pawaskar has a passion for Service Learning and Community Engagement projects. He enjoys teaching, especially young kids with malleable minds. His hobbies include Philately (collecting stamps). He strongly believes in girls education, empowerment & equality and supports the “Nanhi Kali” (Little flower buds) foundation which promotes girls education in rural India.
