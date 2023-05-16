@@ -22,3 +22,24 @@ Dr. Sachin Pawaskar is a researcher, educator, developer and open source enthusi
 Prior to joining UNO, he had 25+ years industry experience with a successful record of accomplishments in the Telecommunications, Energy, Transportation, Healthcare and Insurance industries with extensive experience in new product development, architecture & frameworks, quality assurance, software security analysis & risk mitigation and audit compliance in a fast-paced environment. His career work spans both technical and management tracks all the way from programmer to Chief Technology Officer. His research interests include Sustainability, Energy Awareness, Big Data Analytics, Data Visualization, Internet of Things (IoT), Cloud Computing and his latest passion Forensic Anthropology.
 
 Dr. Pawaskar has a passion for Service Learning and Community Engagement projects. He enjoys teaching, especially young kids with malleable minds. His hobbies include Philately (collecting stamps). He strongly believes in girls education, empowerment & equality and supports the “Nanhi Kali” (Little flower buds) foundation which promotes girls education in rural India.
+
+### Languages and Tools
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://www.laravel.com)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/home)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)](https://www.cypress.io)
+[![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](https://www.circleci.com)
+[![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.vuejs.org)
+[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://www.vuetifyjs.com)
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+```
+    - Item 1
+    - Item 2
+```
+</details>
