@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 
 ### Hi there 👋.
 I'm an IT Professional, Developer, Educator, Researcher, and Open Source Enthusiast.
+
+### About Me
+I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
