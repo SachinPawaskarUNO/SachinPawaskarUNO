@@ -35,11 +35,28 @@ Dr. Pawaskar has a passion for Service Learning and Community Engagement project
 [![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://www.vuejs.org)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)](https://www.vuetifyjs.com)
 
+<!--
+[![Sachin Pawaskar's GitHub stats](https://github-readme-stats.sachinpawaskaruno.vercel.app/api?username=SachinPawaskarUNO&count_private=true&show_icons=true)](https://github.com/SachinPawaskarUNO)
+[![Top Langs](https://github-readme-stats.sachinpawaskaruno.vercel.app/api/top-langs/?username=SachinPawaskarUNO&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true)](https://github.com/SachinPawaskarUNO/github-readme-stats)
+-->
+
+### :zap: Recent Activity
+<!--START_SECTION:activity--> 
+<!--END_SECTION:activity-->
+
 <details>
-  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub Stats</b></summary>
   <br/>
-```
-    - Item 1
-    - Item 2
-```
+  <img style="float: left" alt="Sachin Pawaskar's GitHub Stats" src='https://github-readme-stats.sachinpawaskaruno.vercel.app/api?username=SachinPawaskarUNO&count_private=true&show_icons=true'/>
 </details>
+
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;GitHub Top Languages</b></summary>
+  <br/>
+    <img style="float: left" alt="Sachin Pawaskar's Top Programming Languages" src='https://github-readme-stats.sachinpawaskaruno.vercel.app/api/top-langs/?username=SachinPawaskarUNO&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true'/>
+</details>
+
+### Meet Mac - Our Corgi
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"' alt="Mac Corgi Image"/>
+
+[![Readme Card](https://github-readme-stats.sachinpawaskaruno.vercel.app/api/pin/?username=SachinPawaskarUNO&repo=SachinPawaskarUNO)](https://github.com/SachinPawaskarUNO/SachinPawaskarUNO)
